@@ -1,4 +1,4 @@
-### Credit Card / Bank Statement PDF Parser
+# Credit Card / Bank Statement PDF Parser
 
 # Overview
 This project extracts structured financial data from PDF statements automatically.  
@@ -59,7 +59,7 @@ Open the folder in VS Code.
 2. Create a virtual environment
 python -m venv venv
 .\venv\Scripts\Activate.ps1   # Windows
-# or
+ or
 source venv/bin/activate      # macOS / Linux
 3. Install dependencies
 pip install -r requirements.txt
