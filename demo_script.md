@@ -20,7 +20,6 @@ The program exports all parsed information in both JSON and CSV formats.
 
 3. Demonstration
 Run the command:
-```bash
 python main.py statements
 The program processes each PDF in the statements folder and prints progress messages such as:
 Parsing: axis_statement.pdf
