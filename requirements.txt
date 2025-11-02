@@ -1,0 +1,4 @@
+pdfplumber
+pandas
+python-dateutil
+regex

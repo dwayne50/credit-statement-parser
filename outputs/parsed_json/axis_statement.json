@@ -1,0 +1,274 @@
+{
+  "issuer": "Axis Bank",
+  "last4": "3628",
+  "billing_cycle": "2023-01-04 to 2023-04-30",
+  "opening_balance": 1257703.7,
+  "closing_balance": 1653228.37,
+  "transactions": [
+    {
+      "date": "2023-01-04",
+      "description": "To : 30-04-2023) Tran Date Chq No Particulars Debit Credit Balance Init. Br OPENING BALANCE 1257703.70 UPI/P2A/309105106390/Paytm/Paytm 02-04-2023 Pay/ONSPG202",
+      "amount": 9170.0,
+      "balance": 1266873.7
+    },
+    {
+      "date": "2023-03-04",
+      "description": "PAYMENTSSERVICESLIM",
+      "amount": 21000.0,
+      "balance": 1287873.7
+    },
+    {
+      "date": "2023-03-04",
+      "description": "057578 29325130CARDAXISLCC 057578",
+      "amount": 26831.18,
+      "balance": 1261042.52
+    },
+    {
+      "date": "2023-04-04",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 42000.0,
+      "balance": 1303042.52
+    },
+    {
+      "date": "2023-05-04",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 21000.0,
+      "balance": 1324042.52
+    },
+    {
+      "date": "2023-05-04",
+      "description": "57576 VISHNU/BANK OF MAHARA",
+      "amount": 3770.0,
+      "balance": 1320272.52
+    },
+    {
+      "date": "2023-05-04",
+      "description": "147451 OKA /BANK O",
+      "amount": 220000.0,
+      "balance": 1100272.52
+    },
+    {
+      "date": "2023-05-04",
+      "description": "57579 29325132CARDAXISLCC 034790",
+      "amount": 6465.0,
+      "balance": 1093807.52
+    },
+    {
+      "date": "2023-06-04",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 17400.0,
+      "balance": 1111207.52
+    },
+    {
+      "date": "2023-06-04",
+      "description": "SOLUTION PVT",
+      "amount": 64000.0,
+      "balance": 1175207.52
+    },
+    {
+      "date": "2023-07-04",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 2700.0,
+      "balance": 1177907.52
+    },
+    {
+      "date": "2023-08-04",
+      "description": "B/journal",
+      "amount": 100.0,
+      "balance": 1178007.52
+    },
+    {
+      "date": "2023-09-04",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 30300.0,
+      "balance": 1208307.52
+    },
+    {
+      "date": "2023-09-04",
+      "description": "PANT/TPARTYTRANSFER",
+      "amount": 100.0,
+      "balance": 1208407.52
+    },
+    {
+      "date": "2023-10-04",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 11500.0,
+      "balance": 1219907.52
+    },
+    {
+      "date": "2023-11-04",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 9300.0,
+      "balance": 1229207.52
+    },
+    {
+      "date": "2023-11-04",
+      "description": "By Clg 480543 074 Pune",
+      "amount": 100.0,
+      "balance": 1229307.52
+    },
+    {
+      "date": "2023-11-04",
+      "description": "Ba/courier",
+      "amount": 150.0,
+      "balance": 1229457.52
+    },
+    {
+      "date": "2023-11-04",
+      "description": "BANK/courier",
+      "amount": 100.0,
+      "balance": 1229557.52
+    },
+    {
+      "date": "2023-12-04",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 6200.0,
+      "balance": 1235757.52
+    },
+    {
+      "date": "2023-12-04",
+      "description": "Ban/Payment",
+      "amount": 100.0,
+      "balance": 1235857.52
+    },
+    {
+      "date": "2023-04-13",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 13200.0,
+      "balance": 1249057.52
+    },
+    {
+      "date": "2023-04-13",
+      "description": "SAK/CASH DEP/SAK339763364/1041/SELF",
+      "amount": 88200.0,
+      "balance": 1337257.52
+    },
+    {
+      "date": "2023-04-16",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 10000.0,
+      "balance": 1347257.52
+    },
+    {
+      "date": "2023-04-17",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 10000.0,
+      "balance": 1357257.52
+    },
+    {
+      "date": "2023-04-17",
+      "description": "By Clg 000003 240 Nashik",
+      "amount": 9400.0,
+      "balance": 1366657.52
+    },
+    {
+      "date": "2023-04-18",
+      "description": "DA/Corporati/Payment",
+      "amount": 12120.0,
+      "balance": 1378777.52
+    },
+    {
+      "date": "2023-04-19",
+      "description": "PAYMENTSSERVICESLIM",
+      "amount": 19300.0,
+      "balance": 1398077.52
+    },
+    {
+      "date": "2023-04-20",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 14300.0,
+      "balance": 1412377.52
+    },
+    {
+      "date": "2023-04-20",
+      "description": "Ban/UPI",
+      "amount": 7000.0,
+      "balance": 1419377.52
+    },
+    {
+      "date": "2023-04-21",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 10000.0,
+      "balance": 1429377.52
+    },
+    {
+      "date": "2023-04-21",
+      "description": "SAK/CASH DEP/SAK340810096/1041/SELF",
+      "amount": 33520.0,
+      "balance": 1462897.52
+    },
+    {
+      "date": "2023-04-22",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 10000.0,
+      "balance": 1472897.52
+    },
+    {
+      "date": "2023-04-23",
+      "description": "GST @18% on Charge",
+      "amount": 1.4,
+      "balance": 1472896.12
+    },
+    {
+      "date": "2023-04-23",
+      "description": "Consolidated Charges for A/c",
+      "amount": 7.75,
+      "balance": 1472888.37
+    },
+    {
+      "date": "2023-04-24",
+      "description": "By Clg 692401 015 Nashik",
+      "amount": 33045.0,
+      "balance": 1505933.37
+    },
+    {
+      "date": "2023-04-24",
+      "description": "147452 673/64",
+      "amount": 64000.0,
+      "balance": 1441933.37
+    },
+    {
+      "date": "2023-04-25",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 10000.0,
+      "balance": 1451933.37
+    },
+    {
+      "date": "2023-04-26",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 1790.0,
+      "balance": 1453723.37
+    },
+    {
+      "date": "2023-04-27",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 8980.0,
+      "balance": 1462703.37
+    },
+    {
+      "date": "2023-04-27",
+      "description": "B/Payment",
+      "amount": 29620.0,
+      "balance": 1492323.37
+    },
+    {
+      "date": "2023-04-28",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 11725.0,
+      "balance": 1504048.37
+    },
+    {
+      "date": "2023-04-29",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 22000.0,
+      "balance": 1526048.37
+    },
+    {
+      "date": "2023-04-30",
+      "description": "PAYMENTS SERVICES LIM",
+      "amount": 127180.0,
+      "balance": 1653228.37
+    }
+  ],
+  "source_file": "axis_statement.pdf"
+}
